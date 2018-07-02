@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "test@qq.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "phone": "13370177878",
+      "id": 1
+    },
+    {
+      "email": "admin",
+      "password": "123",
+      "confirmPassword": "123",
+      "phone": "123",
+      "id": 2
+    },
+    {
+      "email": "admin@qq.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "phone": "123",
+      "id": 3
+    }
+  ],
+  "addPizza": [
+    {
+      "name": "芝士披萨",
+      "description": "布吉岛好不好吃",
+      "options": [
+        {
+          "size": "9",
+          "price": "38"
+        },
+        {
+          "size": "12",
+          "price": "45"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "尊宝披萨",
+      "description": "布吉岛好不好吃",
+      "options": [
+        {
+          "size": "9",
+          "price": "34"
+        },
+        {
+          "size": "12",
+          "price": "45"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "华夏披萨",
+      "description": "布吉岛好不好吃",
+      "options": [
+        {
+          "size": "12",
+          "price": "56"
+        },
+        {
+          "size": "24",
+          "price": "106"
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
